@@ -1,6 +1,5 @@
 # PyMoli Analysis
 ## Synopsis
-- In this repository there are __two__ Data Challenges titled Pymoli and Academy of Py. 
 - Used Pandas for Data Wrangling to display a final report 
 ### Heroes of Pymoli
 Analyzed the [Purchase Data](HeroesOfPymoli.csv) for a fantasy game Heroes of Pymoli.
