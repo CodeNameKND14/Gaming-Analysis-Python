@@ -1,4 +1,5 @@
 # PyMoli Analysis
+![1-Logo](Image/Screen Shot 2019-11-08 at 1.25.20 PM.png)
 ## Synopsis
 - Used Pandas for Data Wrangling to display a final report 
 ### Heroes of Pymoli
